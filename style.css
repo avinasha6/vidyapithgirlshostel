@@ -487,6 +487,8 @@ footer a {
 
   #hostel-supridentent .right-div{
     flex-wrap: wrap;
+    width: 40%;
+    height: 20vh;
   }
 }
 
