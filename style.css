@@ -483,4 +483,11 @@ footer a {
   }
 }
 
+@media (max-width: 974px) {
+
+  #hostel-supridentent .right-div{
+    flex-wrap: wrap;
+  }
+}
+
 
